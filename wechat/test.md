@@ -21,6 +21,7 @@
 
 这是链接图片
 
-![image-20210814172910354](D:/Typoranotepic/assetstest/image-20210814172910354.png)
+![image-20210814174124169](../pic/assetstest/image-20210814174124169.png)
 
 这是本地图片
+
